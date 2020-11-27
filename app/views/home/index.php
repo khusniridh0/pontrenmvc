@@ -1,3 +1,5 @@
+</head>
+<body>
 <!-- Navbar -->
 	<nav class="navbar navbar-expand-lg navbar-light fixed-top">
 		  	<a class="navbar-brand text-shadow scroll" href="#tron">
@@ -314,7 +316,7 @@
 
 <!-- Galeri -->
 	<section id="galery" class="galery batas">
-		<div class="container-md pt-2 pb-5">
+		<div class="container-md pt-2 pb-3">
 			<h1 class="d-flex justify-content-center c-galery text-shadow mt-5">Galery</h1>
 			<hr width="15%" color="#fff" class="mb-5">
 
@@ -451,7 +453,7 @@
 					<span class="sr-only">Next</span>
 				</a>
 			</div>
-			<a href="galery" class="btn btn-warning float-right mr-5">Lihat Lainnya <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-images" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.002 4h-10a1 1 0 0 0-1 1v8l2.646-2.354a.5.5 0 0 1 .63-.062l2.66 1.773 3.71-3.71a.5.5 0 0 1 .577-.094l1.777 1.947V5a1 1 0 0 0-1-1zm-10-1a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-10zm4 4.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/><path fill-rule="evenodd" d="M4 2h10a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1v1a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2h1a1 1 0 0 1 1-1z"/></svg></a>
+			<a href="galery" class="btn btn-warning mr-5">Lihat Lebih Banyak <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-images" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.002 4h-10a1 1 0 0 0-1 1v8l2.646-2.354a.5.5 0 0 1 .63-.062l2.66 1.773 3.71-3.71a.5.5 0 0 1 .577-.094l1.777 1.947V5a1 1 0 0 0-1-1zm-10-1a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-10zm4 4.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/><path fill-rule="evenodd" d="M4 2h10a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1v1a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2h1a1 1 0 0 1 1-1z"/></svg></a>
 		</div>
 	</section>
 <!-- Akhir Galery -->

@@ -199,11 +199,6 @@ footer{
 
 /* akhir Utlity versi dekstop*/
 
-@media (min-width: 768px) {
-	.caption{
-		height: 500px;
-	}	
-}
 
 @media (min-width: 992px){
 

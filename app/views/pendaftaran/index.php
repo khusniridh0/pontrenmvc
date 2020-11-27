@@ -1,3 +1,6 @@
+</head>
+<body>
+    
 <!-- jumbotron -->
     <div class="head"></div>
     <div class="jumbotron jumbotron-fluid header">

@@ -11,5 +11,3 @@
 	<link rel="stylesheet" href="<?php echo BASEURL ?>/css/bootstrap.min.css">
 	<!-- my css -->
 	<link rel="stylesheet" href="<?php echo BASEURL ?>/css/mycss.css">
-</head>
-<body>
